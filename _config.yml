@@ -1,5 +1,5 @@
 title: Shakhawat Hossain
-url: "https://0xshakhawat.github.io/portfoliotest/"
+url: "https://Shakhawat.me/"
 baseurl: "/"
 
 markdown: kramdown
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://Shakhawat.me"
+footer_text: "Page design by Shakhawat"
 
 sass:
     style: compressed
@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "About"
    link: "/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "Blog"
+   link: "https://blog.shakhawat.me"
  - name: "Contact"
    link: "contact"
