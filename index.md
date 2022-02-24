@@ -51,4 +51,7 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 
 <button type="button" name="button" class="btn">Button element</button>
 
+<span class="fs-8">
+[Link button](http://example.com/){: .btn }
+</span>
 
