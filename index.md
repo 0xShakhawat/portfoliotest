@@ -55,3 +55,11 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 [Link button](http://example.com/){: .btn }
 </span>
 
+
+<button class="button buttonr">Green</button>
+<button class="button button2">Blue</button>
+<button class="button button3" onclick="alert('Ruby On Rails!')">RUBY</button>
+<button class="button button4">Gray</button>
+<button class="button button5">Black</button>
+
+
