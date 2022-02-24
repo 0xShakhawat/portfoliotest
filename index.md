@@ -49,7 +49,7 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 [Link button](http://example.com/){: .btn }
 
 
-<button type="button" name="button" class="btn">Button element</button>
+<button type="button" name="button" class="btn" onclick="alert('Hello world!')">Button element</button>
 
 <span class="fs-8">
 [Link button](http://example.com/){: .btn }
