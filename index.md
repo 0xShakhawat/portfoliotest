@@ -13,8 +13,7 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 
 ## My Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB).![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
@@ -33,6 +32,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+
+<img src="fa-crown.svg" width="50" height="50">
+
+Click on the @icn-camera icon to take a screen shot.
+
+> #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+> Configuration can be launched from the **Tools -> Settings** menu option.
 
 ## Typography
 
