@@ -47,3 +47,8 @@ Click on the @icn-camera icon to take a screen shot.
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
 [Link button](http://example.com/){: .btn }
+
+
+<button type="button" name="button" class="btn">Button element</button>
+
+
